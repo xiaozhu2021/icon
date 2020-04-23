@@ -1,6 +1,5 @@
-# icon
-ICON储存库
-
+# ICON储存库
+[![star](https://gitee.com/xiaozhu2007/icon/badge/star.svg?theme=dark)](https://gitee.com/xiaozhu2007/icon/stargazers)
 ----------
 
 ### 更新规则
