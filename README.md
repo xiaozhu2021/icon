@@ -1,5 +1,7 @@
 # ICON储存库
 [![star](https://gitee.com/xiaozhu2007/icon/badge/star.svg?theme=dark)](https://gitee.com/xiaozhu2007/icon/stargazers)
+
+[![Fork me on Gitee](https://gitee.com/xiaozhu2007/icon/widgets/widget_2.svg?color=c71d23)](https://gitee.com/xiaozhu2007/icon)
 ----------
 
 ### 更新规则
