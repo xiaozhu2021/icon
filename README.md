@@ -1,4 +1,4 @@
-# ICON储存库      [![star](https://gitee.com/xiaozhu2007/icon/badge/star.svg?theme=dark)](https://gitee.com/xiaozhu2007/icon/stargazers)
+# ICON储存库      [![star](https://gitee.com/xiaozhu2007/icon/badge/star.svg?theme=dark)](https://gitee.com/xiaozhu2007/icon/stargazers)请在这里交谈：[![Gitter](https://badges.gitter.im/xiaozhu2007-github-io/ICON.svg)](https://gitter.im/xiaozhu2007-github-io/ICON)
 
 ----------
 
