@@ -1,5 +1,5 @@
-#安全策略
+# 安全策略
 
-##报告漏洞
+## 报告漏洞
 
-请去[![Gitter](https://badges.gitter.im/xiaozhu2007-github-io/ICON.svg)](https://gitter.im/xiaozhu2007-github-io/ICON?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)，3~5天能得到一个关于报告的漏洞，如果接受该漏洞则你为我们做出了一个贡献。
+请去[Gitter](https://gitter.im/xiaozhu2007-github-io/ICON)，3~5天能得到一个关于报告的漏洞，如果接受该漏洞则你为我们做出了一个贡献。
